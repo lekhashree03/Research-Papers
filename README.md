@@ -2,9 +2,9 @@
 This repository is a curated collection of my research papers, projects, and implementations in Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Data Science, reflecting my passion for advancing real-world applications through cutting-edge research.
 I am a Data Science and AI Engineer with a strong foundation in predictive modeling, data visualization, computer vision, and natural language processing (NLP). With hands-on experience in Python, SQL, PyTorch, TensorFlow, and cloud platforms like AWS and Google Cloud, I bring both academic rigor and industry exposure to my research.
 
-# What You’ll Find in This Repository
+## What You’ll Find in This Repository
 
-## Published Research Papers
+# Published Research Papers
 
 Violence Detection in Drone Surveillance Videos – Implementing 3D CNN models for real-time classification in security and defense applications.
 
