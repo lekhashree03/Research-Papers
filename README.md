@@ -12,7 +12,7 @@ Machine Learning & Deep Learning Models in Apiculture Supervision – Data-drive
 
 Non-Intrusive Precision Beekeeping using IoT & ML – Leveraging deep learning and sensor data for agricultural innovation. Link: [Paper](https://ieeexplore.ieee.org/abstract/document/9915828)
 
-A Novel Approach to Meet Future Energy Needs: Solar Power Satellite - Exploring an innovative concept of space-based Solar Power Satellites to address future global energy demands. Link: [Paper]
+A Novel Approach to Meet Future Energy Needs: Solar Power Satellite - Exploring an innovative concept of space-based Solar Power Satellites. Link: [Paper]
 
 # Supporting Code
 Each paper is accompanied by relevant code and datasets where permissible, allowing reproducibility and deeper exploration of methodologies.
