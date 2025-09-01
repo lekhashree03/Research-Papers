@@ -8,9 +8,9 @@ I am a Data Science and AI Engineer with a strong foundation in predictive model
 
 Violence Detection in Drone Surveillance Videos – Implementing 3D CNN models for real-time classification in security and defense applications. Link: [Paper](https://link.springer.com/chapter/10.1007/978-981-99-0838-7_60)
 
-Non-Intrusive Precision Beekeeping using IoT & ML – Leveraging deep learning and sensor data for agricultural innovation. Link: [Paper](https://ieeexplore.ieee.org/abstract/document/9915828)
-
 Machine Learning & Deep Learning Models in Apiculture Supervision – Data-driven analysis to optimize hive productivity. Link: [Paper](https://informaticsjournals.co.in/index.php/jmmf/article/view/47319)
+
+Non-Intrusive Precision Beekeeping using IoT & ML – Leveraging deep learning and sensor data for agricultural innovation. Link: [Paper](https://ieeexplore.ieee.org/abstract/document/9915828)
 
 # Supporting Code
 Each paper is accompanied by relevant code and datasets where permissible, allowing reproducibility and deeper exploration of methodologies.
