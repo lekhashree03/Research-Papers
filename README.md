@@ -6,7 +6,7 @@ I am a Data Science and AI Engineer with a strong foundation in predictive model
 
 # Published Research Papers
 
-Violence Detection in Drone Surveillance Videos – Implementing 3D CNN models for real-time classification in security and defense applications. https://github.com/lekhashree03/Research-Papers/blob/main/Application%20of%20Machine%20Learning%20and%20Deep%20Learning%20in%20Apiculture.pdf
+Violence Detection in Drone Surveillance Videos – Implementing 3D CNN models for real-time classification in security and defense applications. Link: [Paper](https://link.springer.com/chapter/10.1007/978-981-99-0838-7_60)
 
 Non-Intrusive Precision Beekeeping using IoT & ML – Leveraging deep learning and sensor data for agricultural innovation.
 
