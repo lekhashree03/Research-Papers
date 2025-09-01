@@ -10,7 +10,7 @@ Violence Detection in Drone Surveillance Videos – Implementing 3D CNN models f
 
 Non-Intrusive Precision Beekeeping using IoT & ML – Leveraging deep learning and sensor data for agricultural innovation. Link: [Paper](https://ieeexplore.ieee.org/abstract/document/9915828)
 
-Machine Learning & Deep Learning Models in Apiculture Supervision – Data-driven analysis to optimize hive productivity. Link: [Paper](https://scholar.google.com/scholar?cluster=7642175167027609906&hl=en&oi=scholarr)
+Machine Learning & Deep Learning Models in Apiculture Supervision – Data-driven analysis to optimize hive productivity. Link: [Paper](https://informaticsjournals.co.in/index.php/jmmf/article/view/47319)
 
 # Supporting Code
 Each paper is accompanied by relevant code and datasets where permissible, allowing reproducibility and deeper exploration of methodologies.
